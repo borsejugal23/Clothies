@@ -1,4 +1,4 @@
-![nord.png](/images/Clothie's.png)
+# Clothie's
 
 clothie's is a baby clothing website where you can buy different variety of products
 
