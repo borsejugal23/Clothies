@@ -4,7 +4,7 @@ clothie's is a baby clothing website where you can buy different variety of prod
 
 ---
 
-## Technologies we used
+## Tech-stack we used
 
 <!-- <hr> -->
 
@@ -36,38 +36,37 @@ To run this application on your local system, execute the following commands on 
 
 
 
-<!-- --- 
+# Landing page
 
-A glimpse of our website
 
-- On this page users can signup/sign-in based on whether the user is already registered or not.
+![shop_one](https://github.com/borsejugal23/Clothies/assets/115457172/b42dc46c-6c3e-4236-a049-ad04da376790)
 
-![Screenshot (115).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630219270987/dT7e2MFN3.png)
+# Signup Page
 
-- The landing page where users cans see various categories and subcategories along with offers and discounts.
 
-## ![Screenshot (110).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630218783630/Hnn7HJryZ.png)
+![2023-09-14 (2)](https://github.com/borsejugal23/Clothies/assets/115457172/42b828a7-6c03-4a6d-b4f5-12de16937a2d)
 
-- The products list page is where the list of products of a particular category are shown, the user has options to sort products and filter products as per his needs.
+# Product Page
+![shop_five](https://github.com/borsejugal23/Clothies/assets/115457172/1e4d292b-b35f-4528-a072-c2d795de5ef5)
 
-## ![Screenshot (113).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630219007984/HzV38DEZo.png)
 
-- A complete detailed product page displays all the details regarding the product, here we have given the user an option to add to the cart option if he/she like to buy the product.
+# Single Page
 
-## ![Screenshot (121).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630219125640/BuijpE4Q_.png)
 
-- Shopping bag page has all the items that are added to the cart/bag by the user.
 
-## ![Screenshot (123).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630219786505/W6oIrTvte.png)
+![shop_two](https://github.com/borsejugal23/Clothies/assets/115457172/b58b859f-79c2-41df-b06d-8b964eae3b96)
 
-- On the checkout page, the user enters his shipping address and credit card details in order to place the order.
+# Cart Page
 
-## ![Screenshot (122).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630219352528/km3ZkSW82.png)
 
-- On My Account page user can change their addres and the password if they need
+ ![shop_four](https://github.com/borsejugal23/Clothies/assets/115457172/6ce51bfa-ad8a-4f08-a7f9-40693b66d3ae)
 
-- ![My Account](https://user-images.githubusercontent.com/87421863/135756494-f0e72fdd-fbf0-41a9-ab37-d629f43ada39.png)
--->
+
+# Payment page
+
+
+![shop_three](https://github.com/borsejugal23/Clothies/assets/115457172/56d39337-bec7-4971-960d-471e9e654889)
+
 ## Contributors
 
 1. [Khemchand](https://github.com/khemchand-twt11)
